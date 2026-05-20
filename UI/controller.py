@@ -14,8 +14,6 @@ class Controller:
     def handleCreaGrafo(self, e):
         pass
 
-    def handleCreaGrafo(self,e):
-        pass
 
     def handleCammino(self,e):
         pass

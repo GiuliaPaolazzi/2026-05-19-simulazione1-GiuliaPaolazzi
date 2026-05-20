@@ -14,7 +14,8 @@ class View(ft.UserControl):
         # graphical elements
         self._title = None
         self.txt_name = None
-        self.btn_hello = None
+        self._btnCreaGrafo = None
+        self._ddArtist = None
         self.txt_result = None
         self.txt_container = None
 
